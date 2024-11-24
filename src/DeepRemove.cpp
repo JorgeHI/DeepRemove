@@ -1,4 +1,3 @@
-// Copyright (c) 2011 The Foundry Visionmongers Ltd.  All Rights Reserved.
 #include "DeepRemove.h"
 
 #include <string>
