@@ -19,7 +19,7 @@ Additionally, the design of the propierties panel it's slightly different. The p
     <source srcset="https://github.com/user-attachments/assets/b92a5c5d-f567-44c3-9d32-78283756b242"  media="(prefers-color-scheme: dark)" align="left" width="50%" >
     <img src="https://github.com/user-attachments/assets/b92a5c5d-f567-44c3-9d32-78283756b242" align="left" width="50%" >
 </picture>
-This node have been developer for learning purposes and is intended to serve as an aid to those who are entering the NDK. The dynamic system ok knobs for the channels it's a mix of using the dynamic features for knobs provided by the NDK (for the warning knob message) and a basic system of using the HIDDEN flag (show and hide) for the custom channels knobs.
+This node have been developed for learning purposes and is intended to serve as an aid to those who are entering the NDK. The dynamic system ok knobs for the channels it's a mix of using the dynamic features for knobs provided by the NDK (for the warning knob message) and a basic system of using the HIDDEN flag (show and hide) for the custom channels knobs.
 
 <br/><br/>
 
