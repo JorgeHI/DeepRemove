@@ -38,6 +38,11 @@ The node includes and example of how to show a dynamic text knob that can be use
 
 The node have being developed, tested and compiled for Nuke 15.1 in Windows 11. However, the code does not have any special required that should prevent you to compile it for a different Nuke or OS version.
 
+## Compilation
+
+cmake -DCMAKE_PREFIX_PATH="C:\Program Files\Nuke15.1v5" -A x64 ..
+cmake --build . --config Release
+
 ## TODO list
 
 - [x] Support removal and keep operation options.
